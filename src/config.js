@@ -14,6 +14,7 @@ const config = {
       APP_CLIENT_ID: "6n3fg12d4aikmfn8rbgi2kd58s",
       IDENTITY_POOL_ID: "us-east-2:b6b69241-e8a5-4d75-8d40-9af5dfe7ae42",
     },
+    STRIPE_KEY: "pk_test_51IDDYFDccUIzTx86bbGsTb9nLKEp0VPhS4M1BNYtDrumKj6mh2QR3Ox7WbPC8f73VkTHHttLeXBmkdnzCIYLJeZ300p3YtSqyj",
   };
   
   export default config;
